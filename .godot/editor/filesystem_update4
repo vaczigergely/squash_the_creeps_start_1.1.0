@@ -1,0 +1,9 @@
+res://main.tscn
+res://player.tscn
+res://player.cs
+res://mob.tscn
+res://mob.cs
+res://main.cs
+res://ScoreLabel.cs
+res://Messages.cs
+res://music_player.tscn

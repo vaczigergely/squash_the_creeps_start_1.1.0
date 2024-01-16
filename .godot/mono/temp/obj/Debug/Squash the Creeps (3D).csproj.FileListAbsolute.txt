@@ -1,0 +1,17 @@
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/bin/Debug/Squash the Creeps (3D).deps.json
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/bin/Debug/Squash the Creeps (3D).runtimeconfig.json
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/bin/Debug/Squash the Creeps (3D).dll
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/bin/Debug/Squash the Creeps (3D).pdb
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).csproj.AssemblyReference.cache
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).GeneratedMSBuildEditorConfig.editorconfig
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).AssemblyInfoInputs.cache
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).AssemblyInfo.cs
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).csproj.CoreCompileInputs.cache
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).csproj.CopyComplete
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).dll
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/obj/Debug/refint/Squash the Creeps (3D).dll
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).pdb
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/obj/Debug/Squash the Creeps (3D).genruntimeconfig.cache
+/Users/gergelyvaczi/Documents/GodotGuide/squash_the_creeps_start_1.1.0/.godot/mono/temp/obj/Debug/ref/Squash the Creeps (3D).dll
